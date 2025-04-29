@@ -1,0 +1,26 @@
+[
+    {
+      "model": "api.drivermodel",
+      "pk": 1,
+      "fields": {
+        "name": "Jhon",
+        "last_name": "Florencio",
+        "email": "mario.flores@example.com",
+        "phone": "987654321",
+        "latitude": "12.0",
+        "longitude": "12.0"        
+      }
+    },
+    {
+        "model": "api.drivermodel",
+        "pk": 2,
+        "fields": {
+          "name": "Gladys",
+          "last_name": "Bernabel",
+          "email": "gladys.flores@example.com",
+          "phone": "987654321",
+          "latitude": "12.0",
+          "longitude": "12.0"        
+        }
+      }
+]
